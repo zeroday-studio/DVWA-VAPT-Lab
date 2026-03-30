@@ -22,7 +22,9 @@ To perform web application penetration testing on DVWA and identify common vulne
 - Login using:                                                                                                                          
   Username: admin                                                                                                                      
   Password: password                                                                                                                    
-  
+
+---
+
 ### ⚙️ Security Level (Low)
 
 - Set Security Level to Low:                                                                                                            
