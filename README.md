@@ -49,7 +49,7 @@ Do NOT attempt these techniques on real systems without proper authorization.
 
 ## 📁 Repository Contents
 
-- `attacks/` → Detailed attack methodology, exploitation, and mitigation  
+- `phases/` → Detailed attack methodology, exploitation, and mitigation  
 - `screenshots/` → Evidence of all vulnerabilities  
 - `report/` → Final VAPT report (PDF)                                                                                                                                                                                                                        
 ---
@@ -61,21 +61,21 @@ This project follows a structured penetration testing lifecycle divided into thr
 ### 🔹 Phase 1: Methodology (Steps)
 Detailed step-by-step procedures used to identify and test vulnerabilities.  
 
-👉 [View Steps](attacks/steps.md)
+👉 [View Steps](phases/steps.md)
 
 ---
 
 ### 🔹 Phase 2: Exploitation
 Demonstrates how vulnerabilities were successfully exploited along with their impact.  
 
-👉 [View Exploitation](attacks/exploitation.md)
+👉 [View Exploitation](phases/exploitation.md)
 
 ---
 
 ### 🔹 Phase 3: Mitigation
 Provides security recommendations and best practices to fix the identified vulnerabilities.  
 
-👉 [View Mitigation](attacks/mitigation.md)
+👉 [View Mitigation](phases/mitigation.md)
 
 ---
 
