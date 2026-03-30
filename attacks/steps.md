@@ -1,4 +1,4 @@
-# ⚔️ Attack Phase 1: Methodology (Steps)
+# ⚔️ Phase 1: Methodology (Steps)
 
 ---
 
