@@ -81,9 +81,14 @@ Provides security recommendations and best practices to fix the identified vulne
 
 ## 📸 Sample Evidence
 
-![SQL Injection](screenshots/fig5_sqli_success.png)  
-![XSS](screenshots/fig10_xss_reflected_alert.png)  
-![RCE](screenshots/fig31_rce_execution.png)  
+### 🔍 SQL Injection
+![SQL Injection](screenshots/fig5_sqli_success.png)
+
+### 🌐 Cross-Site Scripting (XSS)
+![XSS](screenshots/fig10_xss_reflected_alert.png)
+
+### 💻 Remote Code Execution (RCE)
+![RCE](screenshots/fig31_rce_execution.png)
 
 ---
 
