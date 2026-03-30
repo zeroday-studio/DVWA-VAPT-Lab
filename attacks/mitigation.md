@@ -1,4 +1,4 @@
-# 🛡️ Attack Phase 3: Mitigation
+# 🛡️ Phase 3: Mitigation
 
 ---
 
