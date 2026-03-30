@@ -47,6 +47,15 @@ Do NOT attempt these techniques on real systems without proper authorization.
 
 ---
 
+## ⚙️ Tools Used
+
+- Burp Suite (Intercepting Proxy)  
+- Hydra (Brute Force Attack)  
+- Kali Linux Tools  
+- DVWA Application  
+
+---
+
 ## 📁 Repository Contents
 
 - `phases/` → Detailed attack methodology, exploitation, and mitigation  
@@ -104,13 +113,12 @@ Provides security recommendations and best practices to fix the identified vulne
 
 ---
 
-## 🛡️ Mitigation Overview
-- Use input validation and sanitization  
-- Implement prepared statements  
-- Enable rate limiting and account lockout  
-- Use CSRF tokens  
-- Validate file uploads  
-- Apply Content Security Policy (CSP)  
+## 🎯 Learning Outcomes
+
+- Gained hands-on experience in web application penetration testing  
+- Understood exploitation techniques for OWASP Top 10 vulnerabilities  
+- Improved skills in vulnerability identification and analysis  
+- Learned how attackers exploit insecure web applications  )  
 
 ---
 
